@@ -4,7 +4,15 @@ A mobile-friendly jewellery catalogue for Sd. Baji Shaied and Sd. Jaker Hussin. 
 
 This is a prebuilt static website. It includes 1,353 attributed jewellery reference photographs, category filters, search, device-local favourites, enlarged photos, and an enquiry composer. Enquiries are prepared for the customer to copy; this website does not send messages or process payments.
 
-## Deploy with Netlify
+## Current website
+
+Public URL: https://riz777-star.github.io/gold-ornaments-tenali/
+
+GitHub Pages publishes the static files from the root of the `main` branch. `.nojekyll` enables direct static serving. The repository is public at the owner's request.
+
+GitHub Pages restricts use for online businesses and commercial transactions. Netlify remains an alternative for business hosting.
+
+## Alternative deployment with Netlify
 
 1. Sign in to Netlify and choose **Add new project → Import an existing project → GitHub**.
 2. Grant access to this repository and select it.
@@ -12,7 +20,7 @@ This is a prebuilt static website. It includes 1,353 attributed jewellery refere
 4. Publish the project and set its visibility to **Public**.
 5. Verify the resulting `netlify.app` URL in a signed-out/private browser before sharing it with customers.
 
-GitHub stores the source files; Netlify hosts the public website. GitHub Pages is not enabled for this business website.
+If you use this alternative, GitHub stores the source files and Netlify hosts the public website.
 
 ## Images and attribution
 
