@@ -24,7 +24,7 @@ If you use this alternative, GitHub stores the source files and Netlify hosts th
 
 ## Images and attribution
 
-Jewellery catalogue photos belong to their respective source jewellery houses. Source links are stored in `gallery.json` and displayed in the picture viewer. Attribution does not establish permission for public republication. Confirm permission or replace third-party photographs with owned/licensed images before public launch.
+Jewellery catalogue photos belong to their respective source jewellery houses. Source records are stored in `gallery.json`; the picture viewer displays a text credit and keeps visitors on this website. Attribution does not establish permission for public republication. Confirm permission or replace third-party photographs with owned/licensed images before public launch.
 
 The supplied portraits and illustrative hero are included. There is no blanket open-source license for the photo assets.
 
